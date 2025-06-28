@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0415-add-strings](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0415-add-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0415-add-strings) |
 | [1205-defanging-an-ip-address](https://github.com/DevSarveshX/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DevSarveshX/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/DevSarveshX/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
