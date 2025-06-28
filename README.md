@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0169-majority-element) |
+| [0409-longest-palindrome](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DevSarveshX/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
@@ -79,6 +80,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [1205-defanging-an-ip-address](https://github.com/DevSarveshX/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DevSarveshX/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
