@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0409-longest-palindrome](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0415-add-strings) |
 | [1205-defanging-an-ip-address](https://github.com/DevSarveshX/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
