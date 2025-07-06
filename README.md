@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1675-magnetic-force-between-two-balls](https://github.com/DevSarveshX/leetcode-solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1970-sorting-the-sentence](https://github.com/DevSarveshX/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/DevSarveshX/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DevSarveshX/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0415-add-strings) |
 | [1205-defanging-an-ip-address](https://github.com/DevSarveshX/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
