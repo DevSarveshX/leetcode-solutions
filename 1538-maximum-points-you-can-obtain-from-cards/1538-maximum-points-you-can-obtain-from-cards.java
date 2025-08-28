@@ -1,26 +1,30 @@
 class Solution {
     public int maxScore(int[] cardPoints, int k) {
-        int totalsum=0;
-        for(int n:cardPoints)
-        {
-            totalsum+=n;
+        int n = cardPoints.length;
+        int totalSum = 0;
+        for (int num : cardPoints) {
+            totalSum += num;
         }
-        int windowsize=cardPoints.length-k;
-        int start=0;
-        int end=windowsize-1;
-        int windowsum=Integer.MAX_VALUE;
-        while(end<cardPoints.length)
-        {
-            int sum=0;
-            for(int i=start;i<=end;i++)
-            {
-                sum+=cardPoints[i];
-            }
-            windowsum=Math.min(windowsum,sum);
-            start++;
-            end++;
+
+        // Window size of cards NOT taken
+        int windowSize = n - k;
+
+        // Step 1: Calculate sum of first window
+        int windowSum = 0;
+        for (int i = 0; i < windowSize; i++) {
+            windowSum += cardPoints[i];
         }
-        int ans=totalsum-windowsum;
-        return ans;
+
+        int minWindowSum = windowSum;
+
+        // Step 2: Slide the window
+        for (int i = windowSize; i < n; i++) {
+            windowSum += cardPoints[i];             // add new element
+            windowSum -= cardPoints[i - windowSize]; // remove old element
+            minWindowSum = Math.min(minWindowSum, windowSum);
+        }
+
+        // Maximum score = totalSum - minimum sum of window left out
+        return totalSum - minWindowSum;
     }
 }
