@@ -44,13 +44,13 @@ public:
         int C = board[0].size();
         int L = word.size();
         if (L == 0) return true;
-        if (L > R * C) return false; // quick prune
+        if (L > R * C) return false;
 
-        // 4-direction moves
+      
         const int dr[4] = {1, -1, 0, 0};
         const int dc[4] = {0, 0, 1, -1};
 
-        // Try starting from every cell that matches word[0]
+      
         for (int sr = 0; sr < R; ++sr) {
             for (int sc = 0; sc < C; ++sc) {
                 if (board[sr][sc] != word[0]) continue;
@@ -66,27 +66,27 @@ public:
                 while (!st.empty()) {
                     Frame &cur = st.back();
 
-                    // Found the entire word
+                   
                     if (cur.idx == L - 1) return true;
 
-                    // If all 4 directions tried, backtrack
+                   
                     if (cur.dir == 4) {
                         vis[cur.r][cur.c] = false;
                         st.pop_back();
                         continue;
                     }
 
-                    // Try next direction from this frame
+                   
                     int k = cur.dir++;
                     int nr = cur.r + dr[k];
                     int nc = cur.c + dc[k];
 
-                    // Check bounds, visited, and next character match
+                    
                     if (nr < 0 || nr >= R || nc < 0 || nc >= C) continue;
                     if (vis[nr][nc]) continue;
                     if (board[nr][nc] != word[cur.idx + 1]) continue;
 
-                    // Go deeper (push next frame)
+                   
                     vis[nr][nc] = true;
                     st.push_back({nr, nc, cur.idx + 1, 0});
                 }
