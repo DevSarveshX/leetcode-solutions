@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
