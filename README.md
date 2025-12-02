@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0509-fibonacci-number](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -181,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0079-word-search) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
