@@ -11,7 +11,7 @@ public:
         //     }
         // }
         //     return ans;
-
+   // Method 2
         //first find the max element in nums
         vector<int>ans;
         int max= INT_MIN;
