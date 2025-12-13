@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/DevSarveshX/leetcode-solutions/tree/master/1675-magnetic-force-between-two-balls) |
