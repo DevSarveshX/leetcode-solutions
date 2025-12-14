@@ -37,7 +37,7 @@ class Solution {
 public:
     int maxScore(vector<int>& nums, int k) {
         int n = nums.size();
-        vector<int> prefix(k + 1, 0), suffix(k + 1, 0);
+        vector<int> prefix(k+1 , 0), suffix(k+1 , 0);
 
         for (int i = 0; i < k; i++)
             prefix[i + 1] = prefix[i] + nums[i];
