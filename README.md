@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -177,10 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/DevSarveshX/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## String
@@ -255,4 +260,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DevSarveshX/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
