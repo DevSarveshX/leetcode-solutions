@@ -13,7 +13,7 @@ public:
         // normal for-loop to find pivot
         for (int i = 0; i < nums.size(); i++) {
 
-            int rightSum = totalSum - leftSum - nums[i];
+            int rightSum = totalSum - (leftSum + nums[i]);
 
             if (leftSum == rightSum) {
                 return i;
